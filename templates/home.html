@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/home_stylesheet.css') }}"> 
+            <title>French Text difficulty</title>
+                <body>
+                    <h3>Lingorank</h3>
+                        <div id = "container1">
+                            <p>Un peu de texte</p>
+                        </div>
+                        <div id = "container2">
+                            <form  action = "{{ url_for('result')}}" method = "POST">
+                                <label for="Frase"></label>
+                                <input type="text" id="frase" name="targetfrase" placeholder="Enter a french text.." required> 
+                                <input type="submit" value="Get difficulty!">
+                            </form>
+                        </div>
+                </body>
+    </head>
+</html>

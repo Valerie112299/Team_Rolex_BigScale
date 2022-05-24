@@ -1,0 +1,81 @@
+h1{
+    color: white;
+    text-align: center;  
+    margin-top: 10%;
+}
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 15%;
+    margin-top: 4%;
+}
+  
+#customers td, #customers th {
+    border: 1px solid #cbd2d7;
+    padding: 8px;
+}
+  
+#customers tr{background-color: #f2f2f2;}
+  
+#customers tr:hover {background-color: #ddd;}
+  
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #0A3123;
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-image:url("https://previews.123rf.com/images/wrightstudio/wrightstudio1902/wrightstudio190200229/117623774-predictive-analytics-big-data-analysis-business-intelligence-internet-and-modern-technology-concept-.jpg") ;
+}
+.button {
+    border-radius: 20px;
+    background-color: #0c8c6e;
+    border: none;
+    color: #F1F1F2;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    width: 160px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 890px;
+    margin-bottom: 5px;
+  
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+a{
+color:whitesmoke;
+text-decoration: none;
+}
