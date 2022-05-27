@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "french-text-difficulty-350020",
+  "private_key_id": "42d146608f7d3621ab5fa87d7aae7e4efce0b7a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIr5wIBwCCv1u1\nHmDxoKqRrJhPU2izGACXt+CC8NF24HlzDrMsTaLkcoFYda0ysLTLw2Vs6vuXvRYm\nmQquOGzMH4POmNwXerZ2KREQRNdL15SLdVbU0jQfJVcvOMHk/6WWcTsDGbVBUAyS\nVMxmUxAWNlICG68jIQb+5MM7EQ57aZOwBO2I/9HGELp0WDGzqyWic3sqF3DZ4uaG\nPQt2y3qGwj8hfZVAXICM97C2Gpag8Qwd9d8vepi+1BtI26h9K3v3khyS+MzgS799\n66+WrFG5rcel4RuZcUnBqXYgSfQj8dj72dQBQpAV+K9W/2RfQA+PVv1uKb/xBOkX\n8kd3SKe7AgMBAAECggEAD00UYHUbaalqNjNl9AZQx8dl2+Z7VrklxZ7Hbc34RBzc\njBRuCzRM9Y4L2DeT4dS6dC7AG1kI0oqGl239Wns2EGCQWotdFibNDDh+8vaZhuoE\nJJeChbqt+3hYki+JpddRqlhhX3ZX7SFLunx5eSb47jifpN/nfCfKGMHoZybnXve/\nwLJAsOLtPzERstlmD4hV9zab/mWPhtq1LgsJuDSxv5b6tf+2O/pWicICiauW5K+q\nuKI6ppSr2VpgJ8SULfdr77dQI0LqIX2Ig34etmKBfRyGnm8hFfVACrtdwSilTVSj\naxK7YpKjYouDhLSm/sU/sPSCU/pE9VZpvKt0mXmCgQKBgQD/TbpowoXn032CdvyI\nOahKLLwEh+zHzY6gUZl8ZzxpWqk2furSXpIpxiI68IA1Oaivy5GWcFv9iyMi5c7D\nG5XB7NKsb5ZZA6sf9RJWlnty+l1G8QOvyWtzGGuXfJqPU8vEDmmSsuhcPCSGWGhw\nTdh6FWNZvXXJT9IGoBhrx90xswKBgQDJO75GUL4L8Ieya3PMGm5ziraPtNvTxonC\nb/nOV12zlg0HpGqfsNLRMpl7Z0RH0Fz3UP2RfyJApD+bZv0Je4yxuZewWs43Te46\n+9grRnX6uDPeAOMFFhzPscGTEyrsVdQSJ7vUqqwymgdUBM+SGXdmwxoUipieXZAN\ngnzBHpbd2QKBgDQ6U3sg6EHfuxpYexrnKK1b727B28eYHqhfaRXRDMPEvz8dwa4d\nmKshFFmYX7IDxKWJ8JOlEryQnTSDbMPvPbi5WPPbtBcrr/NOsFy0VjbUTwa3QXjR\nrMCT61bHL9tIWjQWerR/ExfjWdl99oea9UEsZPGz14fCY4XldHmAHpkPAoGBAIFy\niw3UdsxbaA8gDBdpkU+GFbYP07FBb/DB82IG1WHmzm7yFxyutI6aDB1T6pp/sK3v\nTY5AyBnpDnm7IF7vOSxChQ+O+kSdPvh2dTIxW0dzIvpWe7MT7Gi2oh0oIV5yP7+G\nC8/cEnVinAAyMAx9kU9rheVc2pxU94uZOwNH2CjRAoGBAM92FyRwObBvl4oZSCaK\nKKdvt0uNUi8gAG9ThNvIUHeexMY+Z7XK2dayp5fWzFPI9QC0AaYK7ds4qamIZOBE\nd5euCwZ9N7GDMivRKoKEDPFQcL5UC0Yi8LoEoKG2zUzxadnauRC2ZvO7o0qpZ8WF\nm9JMjD9PoI92IaP9mxI1o+l3\n-----END PRIVATE KEY-----\n",
+  "client_email": "account2frenchtext@french-text-difficulty-350020.iam.gserviceaccount.com",
+  "client_id": "103190553969066056942",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account2frenchtext%40french-text-difficulty-350020.iam.gserviceaccount.com"
+}
