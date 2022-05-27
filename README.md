@@ -3,7 +3,7 @@
 This repository includes content of our project which scope is to  " Predict the difficulty of a french text".
 To do so we've implement a flask interface to get user's input. This repository  provides the code used to achive this goal comprise the link to access to flask App.
 
-# Flask application : https://french-text-difficulty-350020.lm.r.appspot.com
+- Flask application : https://french-text-difficulty-350020.lm.r.appspot.com
 
 Our main folders:
 
