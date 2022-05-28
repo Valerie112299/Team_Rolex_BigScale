@@ -11,5 +11,6 @@ Our main folders:
 * static : it contains the css files of our pages
 * templates: it contains the html code of our flask app  to get users' input and print the difficulty level 
 * Flask_app : it contains 3 files : the python code to run our application, the requirements.txt that holds the dependencies usefull to deploy the app and finally the app.yaml file to specify the app to deploy
+* 
 * Notebook 
 
